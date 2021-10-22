@@ -1,3 +1,4 @@
+Learning link: https://www.youtube.com/watch?v=xfzGZB4HhEE
 # Algorithmic Trading
 Algorithmic trading is the use of algorithms utilised by computers to make investment decisions. The main difference in different trading algorithms is speed of execution.
 
