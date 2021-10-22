@@ -1,0 +1,17 @@
+Technical notes
+========================
+Application programming interface (API) and API tokens
+---*---*---
+API
+___
+A programmable and configurable interface designed for enabling communication between applications (i.e. an interface for applications to directly communicate through with each other). In other terms, an API is a set of functions and procedures that allow one application to access the feature of other application
+---*---*---
+API tokens
+___
+A token can mean one of the following...
+___
+1.
+A unique identifier of an application requesting access to a service. The service would generate an API token for the application to use when requesting the service. The service provider can then match the token provided by the application to the one stored with the service provider in order to authenticate.
+___
+2.
+A replacement for sending some username and password combination over HTTP, which is not secure. While someone could still take and use the API token instead, it is more secure.
