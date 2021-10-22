@@ -1,0 +1,8 @@
+API calls
+---*---*---
+API calls access specific operations (from the service application being accessed through the API) that your client applications can invoke at runtime to perform tasks. Such tasks may be (among others)
+- querying a database
+- adding, updating or deleting data
+- getting certain data information (metadata)
+---*---*---
+Different API's have different methods for making API calls.
