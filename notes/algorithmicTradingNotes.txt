@@ -23,34 +23,3 @@ After performing statistical tests to determine the significant factors for one 
 You then develop a strategy based on this hypothesis (which could be as simple as looking for the company with the highest liquidity, or more complex, such as an algorithm that may also consider other factors), and test it on historical data, preferably across multiple regions in the world.
 
 If the strategy sufficiently accurate in determining high value companies, you implement this strategy in an algorithm and eventually a code.
-========================
-Other definitions
----*---*---
-Value investment definition
-___
-Value investment means investing in stocks (i.e. company shares) that are cheap relative to their value (which is evaluated using measures of business value such as earnings and assets).
----*--*---
-Application programming interface
-___
-A programmable and configurable interface designed for enabling communication between applications (i.e. an interface for applications to directly communicate through with each other). In other terms, an API is a set of functions and procedures that allow one application to access the feature of other application
----*---*---
-Securities of a company (in a financial market)
-___
-Securities are fungible (i.e. mutually interchangeable i.e. they may apply to any form of productive value in the company) and tradable financial instruments used to raise capital in public and private markets. There are primarily three types of securities:
-1. Equity (provides ownership rights to holders)
-2. Debt (essentially loans repaid with periodic payments)
-3. Hybrids (combine aspects of debt and equity)
----*---*---
-Stock market exchange
-___
-A location (physical or virtual) where shares of pubic listed companies are traded. A stock exchange enables stockbrokers to trade company stocks and other securities. A stock may be bought or sold only if it is listed on a stock exchange. Thus, it is the meeting place of the stock buyers and sellers.
----*---*---
-Stock market index --featuring S&P 500--
-___
-Stock market indices are measures that give an insight into the trends of the capital markets and the attitude of investors towards a particular stock or set of stocks in an industry. Hence, a stock market index acts like a barometer which shows the overall conditions of the market.
-___
-In other terms, stock market index is a statistical measure (i.e. a value derived from the various measures of a company and other companies in the exchange, intended to convey information about the value of its stocks)
-___
-S&P 500
---x--
-The Standard and Poor's 500, or simply the S&P 500, is a stock market index tracking the performance of 500 large companies listed on stock exchanges in the United States. 
