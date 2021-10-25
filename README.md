@@ -22,7 +22,7 @@ You then develop a strategy based on this hypothesis (which could be as simple a
 
 If the strategy sufficiently accurate in determining high value companies, you implement this strategy in an algorithm and eventually a code.
 
-# Value inverstment
+# Value investment
 Value investment means investing in stocks (i.e. company shares) that are cheap relative to their value (which is evaluated using measures of business value such as earnings and assets).
 
 In other words, value investment is the investment on the stocks that are priced lower than their intrinsic value (i.e. the company is underselling its stocks).
