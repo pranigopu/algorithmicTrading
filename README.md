@@ -21,3 +21,20 @@ After performing statistical tests to determine the significant factors for one 
 You then develop a strategy based on this hypothesis (which could be as simple as looking for the company with the highest liquidity, or more complex, such as an algorithm that may also consider other factors), and test it on historical data, preferably across multiple regions in the world.
 
 If the strategy sufficiently accurate in determining high value companies, you implement this strategy in an algorithm and eventually a code.
+
+# Value inverstment
+Value investment means investing in stocks (i.e. company shares) that are cheap relative to their value (which is evaluated using measures of business value such as earnings and assets).
+
+In other words, value investment is the investment on the stocks that are priced lower than their intrinsic value (i.e. the company is underselling its stocks).
+
+## Multiples
+Algorithmic value investment relies on the concept of multiples. Multiples are values calculated by dividing a company's stock price to some measure of the company's business value, such as earnings or assets. Some common multiples used are:
+- Price-to-earnings
+- Price-to-book-value
+- Price-to-free-cash-flow
+____
+NOTE:
+Price means stock price, and all the measures here are annual estimates (annual estimate of earnings etc.).
+
+### Minimsing disadvantes of different types of multiples --composite--
+Each type of multiple has its advantages and disadvantages. One way to minimise the disadvantages of a multiple is to use a composite, which is an everage of multiple different valuation strategies.
