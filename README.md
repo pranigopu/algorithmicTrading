@@ -36,5 +36,5 @@ ____
 NOTE:
 Price means stock price, and all the measures here are annual estimates (annual estimate of earnings etc.).
 
-### Minimsing disadvantes of different types of multiples --composite--
+### Minimsing disadvantes of different types of multiples (composite)
 Each type of multiple has its advantages and disadvantages. One way to minimise the disadvantages of a multiple is to use a composite, which is an everage of multiple different valuation strategies.
